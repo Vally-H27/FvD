@@ -16,13 +16,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur:
-  Sanne 't Hooft (vervangen door jouw naam)
+  Valena Herwig 
 
   #### Je startniveau:
-  hier je startniveau (kies uit zwart, rood óf blauw)
+  Blauw
 
   #### Je focus:
-  hier je focus (kies uit responsive óf surface plane)
+  Surface plane
  
 </details>
 
@@ -39,14 +39,14 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
  https://www.jamin.nl (Is een snoepwebsite)
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  Startpagina van Jamin, pagina vraagt om postcode
-  <img src="/Users/valenaherwig/Documents/basiswebsite/images/startpagina.png" width="375px" alt="startpagina, vraagt postcode">
+  Chocoladeletters pagina, dit is de landingspagina
+  <img src="images/chocoladeletters.png">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   Chocoladeletters 
-  <img src="/Users/valenaherwig/Documents/basiswebsite/images/chocoladeletters.png" width="375px" alt="Chocoladeletters">
+  <img src="images/candy.png">
 
-  Ik ga blauwe piste doen. Dit omdat ik nog niet heel goed ben in code. 
+
  
 </details>
 
