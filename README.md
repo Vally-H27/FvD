@@ -91,6 +91,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
 
+  <img scr="readme-images/bril.jpg">
+  <img scr="readme-images/briltwee.jpg">
+
   Wat opviel is dat de website geen dark mode optie heeft. Nu scheelt het dat de website geen gebruik maakt van felle kleuren, maar toch zou het wel fijn zijn als de website dit aanbiedt. De contrasten zijn nog steeds duidelijk en de kleuren zijn duidelijk te onderscheiden, ondanks het zicht van iemand die kleurenblind is of anders ziet qua kleuren. Wat wel duidelijk te merken was tijdens het gebruik van de brillen, is bepaalde content niet opvalt of moeilijk te zien is. De afbeeldingen zijn bijvoorbeeld heel goed zichtbaar, omdat dit groot is maar de tekst eronder valt niet op als je minder ziet of last heb blur, suikerziekte of andere oogbeperkingen. 
 
   <img src="readme-images/donnametbril.jpg">
@@ -98,8 +101,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Ik zat te denken als oplossing om de content op de website of groter te maken of een inzoom optie aan te bieden. Hierdoor kan de gebruiker die slechtziend is inzoomen op bepaalde content wat die moeilijk kan zien.
 
 
-  <img scr="readme-images/bril.jpg">
-  <img scr="readme-images/briltwee.jpg">
+ 
 
 
 </details>
