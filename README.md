@@ -40,11 +40,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   Chocoladeletters pagina, dit is de landingspagina
-  <img src="images/chocoladeletters.png">
+  <img src="readme-images/chocoladeletters.jpg">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  Chocoladeletters 
-  <img src="images/candy.png">
+  candy pagina
+  <img src="readme-images/candy.jpg">
 
 
  
@@ -63,11 +63,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   #### Screenreader
 
   Het gebruik van de screenreader op mijn gekozen website was vrij makkelijk en duidelijk. Doordat mijn gekozen website gebruik maakt van een paar knoppen en niet al teveel kleine links, loop je er vrij makkelijk doorheen. Het enige puntje waar mijn klasgenoot en ik tegenaan liepen was de eerste pagina waar je jouw winkel moet opzoeken via een postcode. Dat ging niet helemaal makkelijk en we kwamen ook niet verder. Dit is een scherm wat dus verbeterd kan worden. 
+
+  <img src="readme-images/jaminstart.jpg">
   
   Het probleem bevinden zich alleen op het eerste scherm. Het kan opgelost worden door het scherm weg te halen, ook omdat dit toch een soort van privacyschending is doordat je jouw postcode moet delen. Maar het kan ook op een andere manier uitgewerkt worden, zoals in plaats van je postcode te delen, je de website kan zoeken gericht op alfabet.
 
-  <img src="readme-images/jaminstart.jpg">
-  <img scr="readme-images/jaminscreenreader.jpg">
+  <img scr="readme-images/screenreader.jpg">
 
 
 
@@ -80,10 +81,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   #### Motoriek (shocks, elastiekjes)
   Mijn klasgenoot en ik vonden het moeilijk om de website te bedienen met de shocks. Je kan wel wat handelingen, zoals met de pijltjes scrollen, maar vaak zit je net een toets verkeerd door het trillen. Met de elastiekjes was wel te doen, omdat je nog je andere vingers had om te navigeren. Maar ik kan mij voorstellen dat als je in het gips zit met beide handen dat dit ook moeilijk wordt.
 
+  <img src="readme-images/elasrtiek.jpg">
+
   Mijn oplossingsvoorstel is dan ook eventueel om op de website voice-control te gebruiken. Mocht dit mogelijk zijn. Hierdoor kan de gebruiker communiceren met de website welke handelingen er gedaan moeten worden, zonder dat die gebruik maakt van het toetsenbord.
 
-  <img src="readme-images/elastiekjes.jpg">
-  <img scr="readme-images/shocks.PNG">
+  <img scr="readme-images/shocks.jpg">
 
 
 
@@ -91,9 +93,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   Wat opviel is dat de website geen dark mode optie heeft. Nu scheelt het dat de website geen gebruik maakt van felle kleuren, maar toch zou het wel fijn zijn als de website dit aanbiedt. De contrasten zijn nog steeds duidelijk en de kleuren zijn duidelijk te onderscheiden, ondanks het zicht van iemand die kleurenblind is of anders ziet qua kleuren. Wat wel duidelijk te merken was tijdens het gebruik van de brillen, is bepaalde content niet opvalt of moeilijk te zien is. De afbeeldingen zijn bijvoorbeeld heel goed zichtbaar, omdat dit groot is maar de tekst eronder valt niet op als je minder ziet of last heb blur, suikerziekte of andere oogbeperkingen. 
 
+  <img src="readme-images/donnametbril.jpg">
+
   Ik zat te denken als oplossing om de content op de website of groter te maken of een inzoom optie aan te bieden. Hierdoor kan de gebruiker die slechtziend is inzoomen op bepaalde content wat die moeilijk kan zien.
 
-  <img src="readme-images/donnametbril.jpg">
+
   <img scr="readme-images/bril.jpg">
   <img scr="readme-images/briltwee.jpg">
 
