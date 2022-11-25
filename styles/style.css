@@ -102,7 +102,7 @@ main {
 
 }
   
-main section{
+main section:nth-of-type(1) {
 	margin: auto;
 	position: relative;
 	width: 96vw;
@@ -112,7 +112,7 @@ main section{
 	overflow: hidden;
 }
 
-main section ul {
+main section:nth-of-type(1) ul {
 	margin: 0;
 	padding: 0;
 	list-style: none ;
@@ -133,29 +133,29 @@ main section:nth-of-type(1) ul li{
 	animation: slider 8s infinite linear;
 }
 
-main section ul li:nth-of-type(1){
+main section:nth-of-type(1) li:nth-of-type(1){
 	animation-delay: -2s;
 }
 
-main section ul li:nth-of-type(2){
+main section:nth-of-type(1) ul li:nth-of-type(2){
 	animation-delay: -4s;
 }
 
-main section ul li:nth-of-type(3){
+main section:nth-of-type(1) ul li:nth-of-type(3){
 	animation-delay: -6s;
 }
 
-main section ul li:nth-of-type(4){
+main section:nth-of-type(1) ul li:nth-of-type(4){
 	animation-delay: -8s;
 }
 
-main section ul li a{
+main section:nth-of-type(1) ul li a{
 	display: block;
 	width: 100%;
 	height: 100%;
 }
 
-main section ul li a img {
+main section:nth-of-type(1) ul li a img {
 	display: block;
 	width: 100%;
 	height: 100%;
@@ -192,18 +192,27 @@ select{
   }
 
  main section:nth-of-type(2) {
-	 background-color: lawngreen;
-	 display: grid;
-	 grid-template-rows: 10fr max-content; 
-	 grid-template-colmns: 1fr max-content;
+	display:flex;
+	flex-direction: column;
+	
+	
  }
 
- 
+ main section:nth-of-type(2) ul {
+	display:flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	
+	
+ }
 
 
- main section:nth-of-type(2) ul li h3 {
-	margin: .5em;
-	place-self: center end;
+
+ main section:nth-of-type(2) ul li {
+	display: flex;
+	flex-direction: column;
+	max-width: 50%;
+	
 	
   }
 
@@ -220,7 +229,7 @@ select{
 
   main section:nth-of-type(2) ul li button {
 	margin: .5em;
-	align-self: center; 
+	align-self: flex-start; 
 	
   }
   
