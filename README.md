@@ -40,11 +40,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   Chocoladeletters pagina, dit is de landingspagina
-  <img src="readme-images/chocoladeletters.jpg">
+  <img src="readme-images/chocoladeletters.jpg"/>
 
   #### Screenshot(s) van de tweede pagina (small screen):
   candy pagina
-  <img src="readme-images/candy.jpg">
+  <img src="readme-images/candy.jpg"/>
 
 
  
@@ -64,11 +64,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   Het gebruik van de screenreader op mijn gekozen website was vrij makkelijk en duidelijk. Doordat mijn gekozen website gebruik maakt van een paar knoppen en niet al teveel kleine links, loop je er vrij makkelijk doorheen. Het enige puntje waar mijn klasgenoot en ik tegenaan liepen was de eerste pagina waar je jouw winkel moet opzoeken via een postcode. Dat ging niet helemaal makkelijk en we kwamen ook niet verder. Dit is een scherm wat dus verbeterd kan worden. 
 
-  <img src="readme-images/jaminstart.jpg">
+  <img src="readme-images/jaminstart.jpg"/>
   
   Het probleem bevinden zich alleen op het eerste scherm. Het kan opgelost worden door het scherm weg te halen, ook omdat dit toch een soort van privacyschending is doordat je jouw postcode moet delen. Maar het kan ook op een andere manier uitgewerkt worden, zoals in plaats van je postcode te delen, je de website kan zoeken gericht op alfabet.
 
-  <img scr="readme-images/screenreader.jpg">
+  <img scr="readme-images/screenreader.jpg"/>
 
 
 
@@ -81,22 +81,22 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   #### Motoriek (shocks, elastiekjes)
   Mijn klasgenoot en ik vonden het moeilijk om de website te bedienen met de shocks. Je kan wel wat handelingen, zoals met de pijltjes scrollen, maar vaak zit je net een toets verkeerd door het trillen. Met de elastiekjes was wel te doen, omdat je nog je andere vingers had om te navigeren. Maar ik kan mij voorstellen dat als je in het gips zit met beide handen dat dit ook moeilijk wordt.
 
-  <img src="readme-images/elasrtiek.jpg">
+  <img src="readme-images/elasrtiek.jpg"/>
 
   Mijn oplossingsvoorstel is dan ook eventueel om op de website voice-control te gebruiken. Mocht dit mogelijk zijn. Hierdoor kan de gebruiker communiceren met de website welke handelingen er gedaan moeten worden, zonder dat die gebruik maakt van het toetsenbord.
 
-  <img scr="readme-images/shocks.jpg">
+  <img scr="readme-images/shocks.jpg"/>
 
 
 
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
 
-  <img scr="readme-images/bril.jpg">
-  <img scr="readme-images/briltwee.jpg">
+  <img scr="readme-images/bril.jpg"/>
+  <img scr="readme-images/briltwee.jpg"/>
 
   Wat opviel is dat de website geen dark mode optie heeft. Nu scheelt het dat de website geen gebruik maakt van felle kleuren, maar toch zou het wel fijn zijn als de website dit aanbiedt. De contrasten zijn nog steeds duidelijk en de kleuren zijn duidelijk te onderscheiden, ondanks het zicht van iemand die kleurenblind is of anders ziet qua kleuren. Wat wel duidelijk te merken was tijdens het gebruik van de brillen, is bepaalde content niet opvalt of moeilijk te zien is. De afbeeldingen zijn bijvoorbeeld heel goed zichtbaar, omdat dit groot is maar de tekst eronder valt niet op als je minder ziet of last heb blur, suikerziekte of andere oogbeperkingen. 
 
-  <img src="readme-images/donnametbril.jpg">
+  <img src="readme-images/donnametbril.jpg"/>
 
   Ik zat te denken als oplossing om de content op de website of groter te maken of een inzoom optie aan te bieden. Hierdoor kan de gebruiker die slechtziend is inzoomen op bepaalde content wat die moeilijk kan zien.
 
@@ -111,16 +111,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 ## Breakdownschets (week 1)
 
 <details>
-  <summary>uitwerken na afloop 2e werkgroep</summary>
-
-  ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
-
-  ### dynamisch deel (bijv menu): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
-
-  ### wellicht nog een dynamisch deel (bijv filter): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
+<img scr="readme-images/Jaminschema.jpg"/>
 
 </details>
 
@@ -134,17 +125,47 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 1e voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+ Ik vind het nog moeilijk om grid toe te passen, omdat ik meerdere sections heb. Dit heb ik geprobeerd maar dit ging niet heel goed. Wel heb ik zelf een dropdown menu gemaakt. Heel vaak gaat het qua html wel goed, maar vanaf het moment dat ik grid of flex moet toepassen gaat het niet helemaal goed. Ik probeer op internet ook bronnen te vinden die mij daar bij kunnen helpen. Maar het is veel al div's en classes.
 
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+Martijn:
+
+HTML Structuur presenteren
+
+Werking CSS ´order´ laten zien
+
+Positioning van plaatjes
+
+Eventuele tips van groepsgenoten
+
+Werking CSS ´order´ laten zien
+
+Positioning van plaatjes
+
+Eventuele tips van groepsgenoten
+
+Jip:
+
+Voortgang met teamgenoten bespreken
+
+Planning van de afgelopen weken
+
+Hoe zijn jullie gestart?
+
+Valena:
+
+Bespreken over de grid         
+
+Dropdown menu  
+
+Feedback van mijn team   
+
+Eventuele tips van teamgenoten
+
+
 
 
   ### Verslag van meeting

@@ -1,15 +1,21 @@
+@font-face {
+	font-family: jamin;
+	src: url(../fonts/thesextfont.woff) format("woff");
+  }
+
+
 /**************/
 /* CSS REMEDY */
 /**************/
 *, *::after, *::before {
   box-sizing:border-box;  
+  margin: 0;
+  padding: 0;
 }
 
 button, summary {
 	cursor: pointer;
 }
-
-
 
 
 
@@ -26,9 +32,199 @@ button, summary {
 
 
 
-/****************/
-/* JOUW STYLING */
-/****************/
+/***********/
+/* general */
+/***********/
+html {
+	height:100vh;
 
-/* jouw code */
+	background-image: url(../images/jaminachtergrond.jpeg);
+	background-size: cover;
+	background-position:center top;
+}
 
+body {
+	
+}
+
+
+
+
+
+/**********/
+/* header */
+/**********/
+
+header {
+	min-height:9.5em;
+
+	display:flex;
+	justify-content: center;
+	align-items: center;
+}
+
+header h1 {
+	width:16rem;
+	font-size: 1.25em;
+	display:flex;
+	flex-direction: column;
+	align-items: center;
+	color: white;
+}
+
+header h1 img{
+	width: 100%;
+}
+
+header h1 div{
+	margin-top:-1em;
+	background-image: linear-gradient(150deg,#b81b8b,#de1eab);
+	border: .15rem solid #e422b0;
+	box-shadow: 0 .75em .6em rgb(0 0 0 / 20%);
+	
+
+	border-radius: 10em;
+	padding: .2em .5em .0em .5em;
+	font-family: jamin, sans-serif;
+	text-transform: uppercase;
+	line-height:.8em;
+	
+	
+	
+}
+
+
+/********/
+/* MAIN */
+/********/
+
+main {
+
+}
+  
+main section{
+	margin: auto;
+	position: relative;
+	width: 96vw;
+	height: 6em;
+	background-color: red;
+
+	overflow: hidden;
+}
+
+main section ul {
+	margin: 0;
+	padding: 0;
+	list-style: none ;
+
+	position: relative;
+	height: 6em;
+
+	overflow:hidden;
+}
+
+main section:nth-of-type(1) ul li{
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+
+	animation: slider 8s infinite linear;
+}
+
+main section ul li:nth-of-type(1){
+	animation-delay: -2s;
+}
+
+main section ul li:nth-of-type(2){
+	animation-delay: -4s;
+}
+
+main section ul li:nth-of-type(3){
+	animation-delay: -6s;
+}
+
+main section ul li:nth-of-type(4){
+	animation-delay: -8s;
+}
+
+main section ul li a{
+	display: block;
+	width: 100%;
+	height: 100%;
+}
+
+main section ul li a img {
+	display: block;
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+
+@keyframes slider {
+	0%, 12.5% {
+		transform: translateX(100%);
+	}
+
+	25% {
+		transform: translateX(0%);
+	}
+
+	37.5% {
+		transform: translateX(0%);
+	}
+
+	50% {
+		transform: translateX(-100%);
+	}
+
+	100% {
+		transform: translateX(-100%);
+	}
+}
+
+select{
+	border:none;
+	padding: 1em;
+	border-radius:1em;
+	
+  }
+
+ main section:nth-of-type(2) {
+	 background-color: lawngreen;
+	 display: grid;
+	 grid-template-rows: 10fr max-content; 
+	 grid-template-colmns: 1fr max-content;
+ }
+
+ 
+
+
+ main section:nth-of-type(2) ul li h3 {
+	margin: .5em;
+	place-self: center end;
+	
+  }
+
+
+  main section:nth-of-type(2) ul li img {
+	grid-row-start: 1;
+	grid-column-start: 1;
+	grid-column-end: 3;
+	width: 40%;
+	height: 67%; 
+	
+  }
+  
+
+  main section:nth-of-type(2) ul li button {
+	margin: .5em;
+	align-self: center; 
+	
+  }
+  
+  
+  
+  
+  
