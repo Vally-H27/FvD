@@ -171,10 +171,10 @@ Eventuele tips van teamgenoten
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - Ik heb veel meer geleerd over grid en hoe ik dit kan toepassen.
+  - Ik heb tips gekregen over hoe grid werkt en hoe ik dit kan stylen.
+  - Ik vond het een leerzame les en heb heel veel fijne hulp gehad van de klassenassistenten.
+
 
 </details>
 
@@ -188,18 +188,20 @@ Eventuele tips van teamgenoten
   <summary>uitwerken voor 2e voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook srceenshots op van delen van je website en code)
+  Ik heb deze week hard gewerkt aan mijn website, ook met de hulp van de klassenassistenten. Ik ben druk bezig geweest met mijn footer, de grid en het stylen hiervan. Ik heb heel erg moeite gehad met het stylen van de sections apart van elkaar. Dit is uiteindelijk wel grotendeels gelukt. Ik heb vooral nog moeite met mijn tabel. Ik ga hierna binnen met het javascript gedeelte, daar had ik vorig jaar de meeste moeite mee dus ik hoop dat het nu grotendeels lukt. 
 
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+Martijn:
+Tot nu toe gaat het goed met mijn website. Ik moet alleen de secties nog vormgeven. Wat nog wel een belangrijk is zijn de navigatie en het daadwerkelijk responsive maken. Ik ga daar dit weekend hard mee aan de slag zodat ik volgende week kan gebruiken om veel vragen te stellen. Ik heb zelf hulp nodig met het maken van de navigatie en het verplaatsen van de content bij breakpoints.
 
+Jip:
+Ik heb al mij html erin staan ben nu bezig met mijn css. Maar ik ben helaas momenteel ziek waardoor ik niet aanwezig ben bij de 2de voortgang. 
+
+Valena:
+Ik zou wel meer willen weten over de tabel en wat de eisen zijn voor de tweede pagina. Ik heb nog moeite met mijn filter knop dus daar zou ik ook wel meer hulp bij willen hebben. Voor de rest ga ik aan de slag met Javascript en het verder uitwerken van animatie.
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
