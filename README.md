@@ -171,11 +171,7 @@ Eventuele tips van teamgenoten
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - Ik heb veel meer geleerd over grid en hoe ik dit kan toepassen.
-  - Ik heb tips gekregen over hoe grid werkt en hoe ik dit kan stylen.
-  - Ik vond het een leerzame les en heb heel veel fijne hulp gehad van de klassenassistenten.
-
-
+  - Ik heb veel meer geleerd over grid en hoe ik dit kan toepassen. De klassenassistenses hebben mij laten zien hoe ik mijn artikelen      - beter kan verdelen, door middel van grid. Ik vroeg feedback over mijn dropdown menu maar ze gaven mij als tip om daar later naar te kijken. Ik vond het een leerzame meeting, ook omdat je samenkomt en de kans hebt om jouw werk te vergeleken met de andere studenten. Door de meeting wist ik waar ik verder mee kon gaan en dat zijn mijn artikelen. Ik heb tot nu toe niet echt meegemaakt dat klassenassistentes mij goede advies gaven, maar ik heb echt veel gehad aan deze hulp. 
 </details>
 
 
@@ -206,10 +202,7 @@ Ik zou wel meer willen weten over de tabel en wat de eisen zijn voor de tweede p
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-- ...
+ Tijdens de meeting hebben we met de docent bepaalde punten doorlopen, zoals grid en wat fr inhoud. Daarbij hebben we gekeken welke tweedepagina ik kan gaan maken en weet ik nu wat voor menu het beste aansluit op mijn website. Ik had niet zozeer specifieke vragen over mijn code, maar meer de oplevering en dit is duidelijk beantwoord. Ik weet nu waar ik gerichter naar moet kijken en hoe ik de aankomende twee weken nog te werk ga. Dat is nog meer letten op details, aan de slag met javascript, mijn eerste pagina afronden, aan de tweede beginnen en animatie toevoegen. 
 
 </details>
 
