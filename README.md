@@ -19,7 +19,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Valena Herwig 
 
   #### Je startniveau:
-  Blauw
+  Rood
 
   #### Je focus:
   Surface plane
@@ -39,7 +39,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
  https://www.jamin.nl (Is een snoepwebsite)
 
   #### srceenshot(s) van de eerste pagina (small srceen): 
-  Chocoladeletters pagina, dit is de landingspagina
+  Chocoladeletters pagina, dit is de landingspagina momenteel.
   <img src="readme-images/chocoladeletters.jpg"/>
 
   #### srceenshot(s) van de tweede pagina (small srceen):
@@ -133,37 +133,37 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 Martijn:
 
-HTML Structuur presenteren
+-HTML Structuur presenteren
 
-Werking CSS ´order´ laten zien
+-Werking CSS ´order´ laten zien
 
-Positioning van plaatjes
+-Positioning van plaatjes
 
-Eventuele tips van groepsgenoten
+-Eventuele tips van groepsgenoten
 
-Werking CSS ´order´ laten zien
+-Werking CSS ´order´ laten zien
 
-Positioning van plaatjes
+-Positioning van plaatjes
 
-Eventuele tips van groepsgenoten
+-Eventuele tips van groepsgenoten
 
 Jip:
 
-Voortgang met teamgenoten bespreken
+-Voortgang met teamgenoten bespreken
 
-Planning van de afgelopen weken
+-Planning van de afgelopen weken
 
-Hoe zijn jullie gestart?
+-Hoe zijn jullie gestart?
 
 Valena:
 
-Bespreken over de grid         
+-Bespreken over de grid         
 
-Dropdown menu  
+-Dropdown menu  
 
-Feedback van mijn team   
+-Feedback van mijn team   
 
-Eventuele tips van teamgenoten
+-Eventuele tips van teamgenoten
 
 
 
@@ -171,7 +171,7 @@ Eventuele tips van teamgenoten
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - Ik heb veel meer geleerd over grid en hoe ik dit kan toepassen. De klassenassistenses hebben mij laten zien hoe ik mijn artikelen      - beter kan verdelen, door middel van grid. Ik vroeg feedback over mijn dropdown menu maar ze gaven mij als tip om daar later naar te kijken. Ik vond het een leerzame meeting, ook omdat je samenkomt en de kans hebt om jouw werk te vergeleken met de andere studenten. Door de meeting wist ik waar ik verder mee kon gaan en dat zijn mijn artikelen. Ik heb tot nu toe niet echt meegemaakt dat klassenassistentes mij goede advies gaven, maar ik heb echt veel gehad aan deze hulp. 
+  Ik heb veel meer geleerd over grid en hoe ik dit kan toepassen. De klassenassistenses hebben mij laten zien hoe ik mijn artikelen      - beter kan verdelen, door middel van grid. Ik vroeg feedback over mijn dropdown menu maar ze gaven mij als tip om daar later naar te kijken. Ik vond het een leerzame meeting, ook omdat je samenkomt en de kans hebt om jouw werk te vergeleken met de andere studenten. Door de meeting wist ik waar ik verder mee kon gaan en dat zijn mijn artikelen. Ik heb tot nu toe niet echt meegemaakt dat klassenassistentes mij goede advies gaven, maar ik heb echt veel gehad aan deze hulp. 
 </details>
 
 
@@ -253,26 +253,36 @@ Ik zou wel meer willen weten over de tabel en wat de eisen zijn voor de tweede p
   <summary>uitwerken voor 3e voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook srceenshots op van delen van je website en code)
+  Wat goed ging is dat ik mijn eerste pagina al bijna af heb, zoals die hoort. Ik heb helaas nog moeite met de social media iconen toevoegen en javascript. Met de screenshots hieronder laat ik het verschil zien tussen de huidige website en wat er bij mij nog ontbreekt.
+
+  
+  <img src="readme-images/huidigesocialmedia.png"/> 
+  Dit is de social media van de huidige website en zo moet het uiteindelijk ook op mijn website komen te staan.
+
+   <img src="readme-images/mijnsocialmedia.png"/> 
+
+   Daarnaast heb ik nog geen animatie of javascript toegepast dus daar moet ik wel nog aan beginnen. Ik heb daar best wel nog moeite mee en wil dat dan ook graag bespreken tijdens de meeting. Voor de rest ben ik wel al begonnen aan mijn tweede pagina, heb ik al aparte stylensheets. Tevens heb ik ook een vergrootglas toegevoegd waar ik best wel trots op. Dit is hieronder terug te zien:
+
+  <img src="readme-images/vergrootglas.png"/> 
 
 
-  ### Agenda voor meeting
-  samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+Martijn:
+Op de blogs pagina wil ik dat de kolommen allemaal even grote afbeeldingen hebben. Ik wil op de index pagina de koffie plaatjes naast elkaar zetten. Hier heb ik hulp nodig bij het positioneren en responsive maken
+
+Jip:
+Ik volg helaas niet meer de lessen mee en laat dit vak vallen.
+
+Valena:
+Ik zou graag hulp willen met mijn social media iconen en hoe ik die van kleur makkelijk kan laten veranderen. Doordat dit niet standaard knoppen of links zijn begrijp ik niet helemaal hoe ik dat kan oplossen. Daarbij weet ik niet precies hoe ik een filtermenu kan toepassen en stylen binnen mijn pagina. Voor de rest gaat het aardig goed en denk ik dat ik zelfstandig aan de slag kan gaan.
+
+ 
 
 
-  ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
+### Verslag van meeting
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+
+We hebben gekeken naar hoe we de knoppen beter kunnen stylen. Martijn heeft met mij gekeken hoe we toepasselijke svg's kunnen vinden die we van kleur kunnen laten veranderen, maar helaas hebben we het probleem niet kunnen verhelpen.
 
 </details>
 
