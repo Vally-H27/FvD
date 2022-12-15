@@ -1,6 +1,239 @@
+
+/**************/
+/* CSS REMEDY */
+/**************/
+
 *, *::after, *::before {
     box-sizing:border-box;  
     margin: 0;
     padding: 0;
   }
+
+
+/***********/
+/* main */
+/***********/
+
+
+main{
+  display: flex;
+  flex-direction: column;
+}
+
+main section{
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  width: 95%;
+}
+
+main section img{
+  width: 20em;
+  height: 22em;
+  text-align: center;
+  margin: auto;
   
+}
+
+main section p{
+  color: var(--textoption2);
+  font-family: var(--fontlight);
+  margin-bottom: 1em;
+  
+}
+
+main section a{
+ color: var(--a-option2);
+ font-family: var(--fontnormal);
+
+}
+
+
+main section a {
+  text-decoration:none;
+}
+
+a.klikone {
+  text-decoration:none;
+  max-width: 50%;
+}
+
+/* hover en focus */
+a.klikone:is(:hover, :focus-visible) {
+  background-image:
+		linear-gradient(
+			45deg,
+			var(--accent-color),
+			var(--link-color),
+			var(--accent-color),
+			var(--link-color)
+		);
+
+	background-size:200% 200%;
+	
+	color:var(--inverse-color);
+	
+	animation:klikone 1.5s infinite linear;
+}
+
+@keyframes klikone {
+	0% {
+		background-position:left bottom;
+	}
+	100% {
+		background-position:right top;
+	}
+}
+
+/* active */
+a.klikone:active {
+  --link-color:var(--accent-color);
+}
+
+a.kliktwo{
+  text-decoration:none;
+  max-width: 50%;
+  background-image:
+    linear-gradient(45deg, var(--link-color) 50%, transparent 0),
+    linear-gradient(225deg,var(--link-color) 50%, transparent 0);
+  background-size:200% 200%;
+  background-position:
+    right top,
+    left bottom;
+
+  transition:.5s;
+}
+
+
+a.kliktwo:is(:hover, :focus-visible) {
+  color:var(--inverse-color);
+  background-position:
+    center center;
+}
+
+
+a.kliktwo:active {
+  --link-color:var(--accent-color);
+}
+
+
+main section h3{
+  font-family: var(--fontnormal);
+  color: var(--headings);
+  font-size: 1.1em;
+  margin-top: 2.5em;
+}
+
+span{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: .9em;
+}
+
+
+
+/***********/
+/* footer */
+/***********/
+
+
+footer{
+  background-color: var(--themacolor-secundair);
+}
+
+
+footer section:first-of-type nav{
+	background-color: var(--themacolor-secundair);
+	display: flex;
+	flex-direction: column;
+	list-style-type: none;
+	text-align: center;
+	margin-top: 1em;
+	padding: 2em;
+}
+
+footer:first-of-type nav a{
+	color: white;
+	font-family: gothamlight, sans-serif;	
+
+}
+
+footer:first-of-type nav a:hover {
+  color: var(--themacolor-primair);
+
+}
+
+footer:first-of-type nav a:focus{
+  color: var(--themacolor-primair);
+
+}
+
+footer:first-of-type nav a:hover{
+  color: var(--hover);
+
+}
+
+
+footer section:first-of-type nav ul li a{
+	font-size: .9em;
+	font-family: var(--fontlight);
+	color: var(--themacolor-whiteness);
+	line-height: 2em;
+
+
+	
+
+}
+
+
+footer section:first-of-type li{
+	list-style-type: none;
+}
+
+
+
+footer section:nth-of-type(2) {
+	padding-bottom: 6em;
+	width: 70%;
+	margin: auto;
+	border-top: 1px solid #fff;
+	background-color: var(--themacolor-secundair);
+
+}
+
+
+footer section:nth-of-type(2) nav {
+	margin-top: .5em;
+	width: 100%;
+	text-align: center;
+}
+
+
+
+footer section:nth-of-type(2) h3 {
+	text-align: center;
+	color: var(--themacolor-whiteness);
+	font-family: var(--fontnormal);
+	font-size: 1em;
+	padding-top: 2em;
+}
+
+
+
+footer section:nth-of-type(2) nav ul {
+	display: flex;
+	flex-direction: row;
+	justify-content:center;
+	gap: .5em;
+}
+
+footer section:nth-of-type(2) nav ul li {
+	list-style-type: none;
+
+
+}
+
+footer section:nth-of-type(2) nav img {
+	width: 2.5em;
+	height: 3em;
+}
+

@@ -3,63 +3,98 @@
 	src: url(../fonts/thesextfont.woff) format("woff");
 }
 
-  @font-face {
+@font-face {
 	font-family: gotham;
 	src: url(../fonts/gothamrndmedium.woff) format("woff");
 }
 
-  @font-face {
+@font-face {
 	font-family: gothamlight;
-	src: url(../fonts/gothamrndlight.woff) format("woff");  
+	src: url(../fonts/gothamrndlight.woff) format("woff");
+}
+
+@media (prefers-color-scheme: dark) {
+	:root {
+		--cursor: pointer;
+		--textbutton: white;
+		--textoption1: black;
+		--textoption2: #858585;
+		--themacolor-primair: #7f686f;
+		--themacolor-secundair: #757474;
+		--headings: #a095d2;
+		--themacolor-whiteness: rgb(172, 100, 100);
+		--a-aoption1: #777389;
+		--a-option2: #c793a4;
+		--themacolor-even: #f1f1f1;
+		--themacolor-odd: white;
+		--fontbutton: gothamlight;
+		--fontnormal: gotham;
+		--fontlight: gothamlight;
+		--hover: #8aa5a5;
+
+	}
 }
 
 /**************/
 /* CSS REMEDY */
 /**************/
-*, *::after, *::before {
-  box-sizing:border-box;  
-  margin: 0;
-  padding: 0;
+
+*,
+*::after,
+*::before {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
 }
 
-button, summary {
-	cursor: pointer;
-}
-
-a{
-	text-decoration: none;
-}
-
-h3{
-	font-size: 0.8em;
-	font-family: gotham, sans-serif;
-	font-weight: 400;
-}
 /*********************/
 /* CUSTOM PROPERTIES */
 /*********************/
+
+
 :root {
 	--cursor: pointer;
 	--textbutton: white;
+	--textoption1: black;
+	--textoption2: #858585;
 	--themacolor-primair: #FF0054;
-    --themacolor-secundair: #E6A1C2;
-    --themacolor-whiteness: rgb(255, 255, 255);
+	--themacolor-secundair: #E6A1C2;
+	--headings: #5a4f8c;
+	--themacolor-whiteness: rgb(255, 255, 255);
+	--a-aoption1: #5a4f8c;
+	--a-option2: #FF0054;
+	--themacolor-even: #f1f1f1;
+	--themacolor-odd: white;
 	--fontbutton: gothamlight;
+	--fontnormal: gotham;
+	--fontlight: gothamlight;
+	--hover: #208dc8;
+	--link-color:dodgerblue;
+	--inverse-color:white;
+	--accent-color:deeppink;
+	
+
 }
-
-
-
 
 
 /***********/
 /* general */
 /***********/
 html {
-	height:100vh;	
+	height: 100vh;
 	background-image: url(../images/jaminachtergrond.jpeg);
 	background-size: cover;
-	background-position:center top;
+	background-position: center top;
 
+}
+
+button,
+summary {
+	cursor: pointer;
+}
+
+a {
+	text-decoration: none;
 }
 
 
@@ -68,77 +103,71 @@ html {
 /***********/
 
 header {
-	min-height:9.5em;
-	display:flex;
+	min-height: 9.5em;
+	display: flex;
 	justify-content: center;
 	align-items: center;
 }
 
+
+h3 {
+	font-size: 0.8em;
+	font-family: gotham, sans-serif;
+	font-weight: 400;
+}
+
 header h1 {
-	width:16rem;
+	width: 16rem;
 	font-size: 1.25em;
-	display:flex;
+	display: flex;
 	flex-direction: column;
 	align-items: center;
 	color: white;
 }
 
-header h1 img{
+header h1 img {
 	width: 100%;
 }
 
-header h1 div{
-	margin-top:-1em;
-	background-image: linear-gradient(150deg,#b81b8b,#de1eab);
+header h1 div {
+	margin-top: -1em;
+	background-image: linear-gradient(150deg, #b81b8b, #de1eab);
 	border: .15rem solid #e422b0;
 	box-shadow: 0 .75em .6em rgb(0 0 0 / 20%);
 	border-radius: 10em;
 	padding: .2em .5em .0em .5em;
 	font-family: jamin, sans-serif;
 	text-transform: uppercase;
-	line-height:.8em;
-	
-	
-	
+	line-height: .8em;
+
+
 }
-
-
-
 
 /***********/
 /* main */
 /***********/
 
+main {
+	background-color: white;
+	padding: 1em;
+	border-radius: 1em 1em 1em 1em;
+	margin: .3em;
+	position: relative;
 
 
+}
 
-
+main section p {
+	margin-top: 1em;
+	font-family: var(--fontlight);
+	font-weight: 400;
+	text-align: left;
+	font-size: 1em;
+	width: 100%;
+}
 
 
 /***********/
 /* footer */
 /***********/
 
-
-
-
-footer section:nth-of-type(2) nav{
-	background-color: var(--themacolor-secundair);
-	display: flex;
-	flex-direction: column;
-	list-style-type: none;
-	text-align: center;
-	margin-top: 2em;
-	padding: 2em;
-}
-
-footer section:nth-of-type(2) nav a{
-	color: white;
-	font-size: .9em;
-	font-family: gothamlight, sans-serif;	
-}
-
-
-footer section:nth-of-type(2) li{
-	list-style-type: none;
-}
