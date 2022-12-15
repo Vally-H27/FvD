@@ -13,27 +13,7 @@
 	src: url(../fonts/gothamrndlight.woff) format("woff");
 }
 
-@media (prefers-color-scheme: dark) {
-	:root {
-		--cursor: pointer;
-		--textbutton: white;
-		--textoption1: black;
-		--textoption2: #858585;
-		--themacolor-primair: #7f686f;
-		--themacolor-secundair: #757474;
-		--headings: #a095d2;
-		--themacolor-whiteness: rgb(172, 100, 100);
-		--a-aoption1: #777389;
-		--a-option2: #c793a4;
-		--themacolor-even: #f1f1f1;
-		--themacolor-odd: white;
-		--fontbutton: gothamlight;
-		--fontnormal: gotham;
-		--fontlight: gothamlight;
-		--hover: #8aa5a5;
 
-	}
-}
 
 /**************/
 /* CSS REMEDY */
@@ -72,9 +52,35 @@
 	--link-color:dodgerblue;
 	--inverse-color:white;
 	--accent-color:deeppink;
-	
+	--background: url(../images/jaminachtergrond.jpeg);
+}	
 
-}
+@media (prefers-color-scheme:dark) {
+	:root {
+		--cursor: pointer;
+		--textbutton: rgb(251, 251, 251);
+		--textoption1: black;
+		--textoption2: #151313;
+		--themacolor-primair: #cfa6b2;
+		--themacolor-secundair: #ab8893;
+		--headings: #17161c;
+		--themacolor-whiteness: rgb(215, 202, 202);
+		--a-aoption1: #0f0e0f;
+		--a-option2: #95878c;
+		--themacolor-even: #f1f1f1;
+		--themacolor-odd: rgb(255, 255, 255);
+		--fontbutton: gothamlight;
+		--fontnormal: gotham;
+		--fontlight: gothamlight;
+		--hover: #8aa5a5;
+		--link-color:rgb(151, 164, 178);
+		--inverse-color:rgb(123, 107, 107);
+		--accent-color:rgb(49, 44, 47);
+		--background: url(../images/jaminachtergrondtwee.jpeg);
+
+	}
+} 
+
 
 
 /***********/
@@ -82,11 +88,15 @@
 /***********/
 html {
 	height: 100vh;
-	background-image: url(../images/jaminachtergrond.jpeg);
+	background-image: var(--background);
 	background-size: cover;
 	background-position: center top;
 
 }
+html.custometheme{
+	--background: url(../images/christmastheme.jpeg);
+}
+
 
 button,
 summary {
@@ -148,7 +158,7 @@ header h1 div {
 /***********/
 
 main {
-	background-color: white;
+	background-color: var(--themacolor-odd);
 	padding: 1em;
 	border-radius: 1em 1em 1em 1em;
 	margin: .3em;

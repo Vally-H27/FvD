@@ -287,19 +287,27 @@ We hebben gekeken naar hoe we de knoppen beter kunnen stylen. Martijn heeft met 
 <summary>uitwerken voor eindgesprek</summary>
 
 ### Je uitkomst - karakteristiek srceenshots:
-<img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
+<img src="readme-images/kopscherm.png" width="375px">
 
+<img src="readme-images/kopscherm.png" width="375px">
 
 ### Dit ging goed/Heb ik geleerd: 
-Korte omschrijving met plaatjes
+Wat ik uiteindelijk geleerd heb is om grid toe te passen en bepaalde animaties en states te verwerken. Ik heb heel veel nieuwe kennis opgedaan de afgelopen weken over bijvoorbeeld positioneren, grid, flexbox en hoe ik animaties kan toepassen op mijn website. Ik vind dat ik mezelf best wel heb overtroffen met wat ik heb gemaakt. Het kan altijd beter en mooier, maar ik had niet verwacht dat ik in zo'n korte tijd zoveel had kunnen maken. Het meest trotse ben ik op de confetti en mijn thema button. Maar ook de grid die ik heb toegepast want ik had nog nooit eerder met grid gewerkt. 
 
-<img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
+<img src="readme-images/contactpaginavoorbeeld.png" width="375px">
+
+<img src="readme-images/darkmode.png" width="375px">
 
 
 ### Dit was lastig/Is niet gelukt:
-Korte omschrijving met plaatjes
+Wat ik nog wel lastig vond gaan was Javascript en het stylen van bepaalde knoppen of toepassingen. Zo had ik graag nog mijn sociale media knoppen willen stylen, zodra ze visited zijn maar dit lukte mij helaas niet. Ook vind ik het jammer dat mijn darkmode en thema niet heel mooi gelukt is maar het is wel iets waar ik zeker van heb geleerd. Ik ben de docent en klassenassistentes enorm dankbaar voor al hun tijd en hulp want dat heeft mij ook enorm geholpen en nieuwe inzichten laten doen. Dit was een uitdaging maar ik heb veel geleerd. Ik heb mijn code door de check gehaald, maar kreeg een aantal meldingen waarvan ik niet begrijp dat het fout kan zijn als ik het samen met de docent of klassenassistenten heb gedaan. 
 
-<img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
+<img src="readme-images/socialmediaknoppen.png" width="375px">
+
+<img src="readme-images/kerst.png" width="375px">
+
+
+
 </details>
 
 
@@ -319,11 +327,11 @@ Korte omschrijving met plaatjes
   4. Instagram icoon. Afkomstig van https://iconscout.com/icon/instagram-218
   5. Facebook icoon. Afkomstig van https://iconscout.com/icon/facebook-1464523
   6. Tiktok icoon. Afkomstig van https://iconscout.com/icon/tiktok-3185105
-  7. Filtermenu. Chocoladeletter icoon afkomstig van https://www.flaticon.com/free-icon/abc_709469?term=alphabet&page=1&position=8&page=1&position=8&related_id=709469&origin=search
+  7. Filtermenu. Chocoladeletter icoon afkomstig van https://www.flaticon.com/free-icon/abc_709469? term=alphabet&page=1&position=8&page=1&position=8&related_id=709469&origin=search
   8. Filtermenu. New icoon afkomstig van https://www.flaticon.com/free-icon/new_4456928?term=new&page=1&position=81&page=1&position=81&related_id=4456928&origin=search
   9. Filtermenu. Snoep icoon afkomstig van https://www.flaticon.com/free-icon/candy_3151998?term=candy&page=1&position=40&page=1&position=40&related_id=3151998&origin=search
   10. Filtermenu. Chocolade icoon afkomstig van https://www.flaticon.com/free-icon/chocolate_1660712?term=chocolate&page=1&position=4&page=1&position=4&related_id=1660712&origin=search
   11. Filtermenu. Tiktok icoon afkomstig van https://www.flaticon.com/free-icon/tik-tok_3046125?term=tiktok&page=1&position=3&page=1&position=3&related_id=3046125&origin=search
   12. Filtermenu. Gifts icoon afkomstig van https://www.flaticon.com/free-icon/gift-box_1692277?term=gifts&page=1&position=7&page=1&position=7&related_id=1692277&origin=search
-
+13. Hart icoon. Afkomstig van https://www.svgrepo.com/svg/13666/heart
 </details>
