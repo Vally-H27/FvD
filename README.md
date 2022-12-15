@@ -216,7 +216,7 @@ De website is verbeterd doordat er nu gebruik is gemaakt van semantische code. A
 #### srceenreader
 Door het testen met de screenreader kwamen wij erachter dat mijn buttons nog niet duidelijk stonden qua code. Voor de rest sprak die duidelijk de links en kopjes op. Maar ik ga nog even mijn buttons aanpassen, zodat dat ook klopt qua code.
 
-<img src="readme-images/screenreadertwee.HEIC"/>
+<img src="readme-images/screenreadervoorbeeld.png"/>
 
 
 #### Muis en Toetsenbord 
@@ -226,13 +226,13 @@ Muis en toetsenbord werkt goed, net zoals op de huidge website. Je kan er goed d
 De website is goed te bedienen, ondanks de shocks en elastiekjes. Het gaat allemaal wel een stuk langzamer, maar het is wel te doen. Dit kan bijvoorbeeld door de pijltjes toets te gebruiken. 
 
 
-<img src="readme-images/shock.HEIC"/>
+<img src="readme-images/shock.png"/>
 
 
 #### Visueel (brillen, contrast, kleurenblind, dark/light). 
 Met de brillen was er niet veel verschil te zien. Bepaalde brillen, zoals Central field loss was er weimnig te zien maar dat valt moeilijk op te lossen. Bij de field loss en blur kwam er wel duidelijk naar voren dat de tekst wat groter moet, dus dat is zeker iets om op te lossen. Darkmode heb ik nog niet toegepast dus dat konden we nog niet uittesten, maar door de toepassing colorblindly konden we zien hoe de website eruit ziet in verschillende kleuren. 
 
-<img src="readme-images/donnametbril.HEIC"/>
+<img src="readme-images/donnametbrilop.png"/>
 
 
 </details>
